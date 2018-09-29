@@ -45,6 +45,7 @@ public class Main {
             default:
                 printHelp();
         }
+        System.exit(0);
     }
 
     private static void printHelp() {

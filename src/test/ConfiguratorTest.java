@@ -1,9 +1,7 @@
-package com.pierprogramm.automaticDeployFtp.config;
-
+import com.pierprogramm.automaticDeployFtp.config.Configurator;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-import sun.security.krb5.Config;
 
 import static org.junit.Assert.*;
 

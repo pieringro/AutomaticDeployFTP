@@ -20,5 +20,7 @@ public class ConfiguratorKeys {
     public static final String ARCHIVE_LOCAL_FOLDER_PATH_DESTINATION            = "archiveLocalFolderPathDestination";
     public static final String ARCHIVE_FILE_NAME     				            = "archiveFileName";
     public static final String ARCHIVE_LOCAL_FILES_FOLDERS_PATH_TO_COMPRESS     = "archiveLocalFilesPathToCompress";
+
+    public static final String PROTOCOL_CONNECTION                              = "protocolConnection";
 }
 
